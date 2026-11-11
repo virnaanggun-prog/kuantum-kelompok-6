@@ -1,0 +1,7 @@
+streamlit
+sympy
+numpy
+scipy
+pandas
+pillow
+pytesseract
